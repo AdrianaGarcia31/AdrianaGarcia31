@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdrianaGarcia31
 - 👀 I’m interested in quantum computers.
 - 🌱 I’m currently studying computer engineering.
-- 💞️ I’m looking to collaborate on projects that can expad my knowledge.
+- 💞️ I’m looking to collaborate on projects that can expand my knowledge.
 - 📫 How to reach me: ag86879@email.vccs.edu
 
 <!---
